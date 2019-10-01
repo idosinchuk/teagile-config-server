@@ -1,4 +1,4 @@
-package com.soprasteria.hackaton.teagile.zuul.service;
+package com.soprasteria.hackaton.teagile.config.service;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class ZuulGatewayServerApplicationTests {
+public class ConfigApplicationTests {
 
 	@Test
 	public void contextLoads() {
