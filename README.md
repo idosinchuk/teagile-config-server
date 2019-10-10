@@ -1,2 +1,2 @@
-# teagile-zuul-service
-TEAgile Zuul Service for SopraSteria Hackaton
+# teagile-config-service
+Config Service for TEAgile project

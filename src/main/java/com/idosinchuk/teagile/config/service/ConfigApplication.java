@@ -1,4 +1,4 @@
-package com.soprasteria.hackaton.teagile.config.service;
+package com.idosinchuk.teagile.config.service;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

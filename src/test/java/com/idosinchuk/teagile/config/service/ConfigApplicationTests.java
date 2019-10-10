@@ -1,4 +1,4 @@
-package com.soprasteria.hackaton.teagile.config.service;
+package com.idosinchuk.teagile.config.service;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
